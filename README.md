@@ -1,0 +1,2 @@
+# scbot
+stalcraft AH bot
